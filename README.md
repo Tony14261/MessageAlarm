@@ -12,5 +12,5 @@ Contact(Discord): tony14261<br>
 
 ## Download / Install <br>
 [for Python users else ignore this] REMEMBER to install all the modules with `pip install --user -r requirements.txt` (locate to this folder before enter that in CMD). <br>
-Check the latest release on Github and download the zip file. Extract it (a free program if you don't want to pay WinRAR: 7zip) and run the alarm.py file.  <br>
+Check the [latest release on Github](https://github.com/Tony14261/MessageAlarm/releases) and download the zip file. Extract it (a free program if you don't want to pay WinRAR: 7zip) and run the alarm.py file.  <br>
 A second version if you don't have Python installed is in the `exe-version folder` (then run alarm.exe). <br>
